@@ -15,7 +15,7 @@ Parameters:
   SecGrpStackName:
     Description: Name of the stack that created the SGs
     Type: String
-    Default: SecGrp-Stack
+    Default: SecGroup-Stack
   
   OwnerTag:
     Description: Using tags to track resources built
